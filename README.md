@@ -1,1 +1,1 @@
-Currently studying theoretical machine learning with convex optimization. For more info, click [here](https://arnavsm.github.io)
+Currently studying theoretical machine learning, specifically probabilistic machine learning and causal reasoning. For more info, click [here](https://arnavsm.github.io)
