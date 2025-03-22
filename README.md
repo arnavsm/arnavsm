@@ -1,1 +1,1 @@
-Currently studying theoretical machine learning and deep learning. For more info, click [here](https://arnavsm.github.io)
+Interested in algorithmic research in deep learning and machine learning. For more info, click [here](https://arnavsm.github.io)
